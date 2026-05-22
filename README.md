@@ -1,1 +1,30 @@
-# Inquisitorial Consensus Debate (ICD)  **Original author:** MD. Kaif Al Tahsin **Version:** 1.2  |  **Year:** 2026 **DOI:** https://doi.org/10.5281/zenodo.20338294  ## What is ICD? The Inquisitorial Consensus Debate is an original structured debate format designed to produce a reliable, logic-tested consensus rather than a competitive outcome.  Unlike traditional adversarial formats, ICD uses three independent bodies: - Competing Teams - Observer Panels (queryable by judges only) - Judge Panel with a Supreme Judge  ## Download the Full Framework [ICD_Framework_v1.2.pdf]  ## Cite This Work Tahsin, M. K. A. (2026). Inquisitorial Consensus Debate (ICD). GitHub. https://github.com/kaiftahsin/ICD-Debate-Format
+# Inquisitorial Consensus Debate (ICD)
+
+A structured debate framework designed to produce logic-tested consensus rather than adversarial victory.
+
+## Author
+Tahsin, Al Kaif
+
+## Current Version
+v1.2 (2026)
+
+## DOI
+https://doi.org/10.5281/zenodo.20338294
+
+## Core Principles
+- Consensus over victory
+- Observer panel system
+- Inquisitorial judicial structure
+- Logic penalty enforcement
+- Structured consensus ratification
+
+## Repository Structure
+- `/current` → latest framework
+- `/archive` → historical versions
+- `/diagrams` → visual framework diagrams
+
+## Citation
+Tahsin, A. K. (2026). Inquisitorial Consensus Debate (ICD): Formal Framework & Ruleset, Version 1.2 (1.2). Zenodo. https://doi.org/10.5281/zenodo.20338294
+
+## License
+CC BY 4.0
